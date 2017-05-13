@@ -1,0 +1,1 @@
+app = _.extend(app, {});
